@@ -69,7 +69,7 @@
 <div id="container">
 	<h1>Test CodeIgniter +++ Git +++ GitHub </h1>
 
-	<img src="http://2.bp.blogspot.com/-1XGFDmwZpKM/UMsBdYTfxHI/AAAAAAAAJEM/n8UvB2nojR8/s400/inter-mazembe-day.jpg" />
+	<img src="http://veja.abril.com.br/blog/augusto-nunes/files/2011/07/augusto-boal.jpg" />
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
 </div>
