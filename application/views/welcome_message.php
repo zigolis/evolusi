@@ -67,8 +67,9 @@
 <body>
 
 <div id="container">
-	<h1>Test CodeIgniter +++ Git +++ GitHub </h1>
+	<h1>+++ CodeIgniter +++ Git +++ GitHub </h1>
 
+	<img src="http://veja.abril.com.br/blog/augusto-nunes/files/2011/07/augusto-boal.jpg" />
 	<img src="http://veja.abril.com.br/blog/augusto-nunes/files/2011/07/augusto-boal.jpg" />
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
