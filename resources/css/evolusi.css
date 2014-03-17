@@ -1,0 +1,19 @@
+body {
+	background: url(../img/home.jpg) repeat-x center 0 #206000;
+}
+
+h1 {
+	background: url(../img/logo.png) no-repeat 0 0;
+	font: 0 arial;
+	height: 310px;
+	margin: 100px auto 0 auto;
+	width: 310px;
+}
+
+h2 {
+	background: url(../img/callout.png) no-repeat 0 0;
+	font: 0 arial;
+	height: 141px;
+	margin: 50px auto 0 auto;
+	width: 560px;
+}
