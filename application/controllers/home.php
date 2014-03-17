@@ -8,6 +8,7 @@ class Home extends CI_Controller {
 	
 	public function index() {
 		$this->load->view('evolusi');
+		$this->output->cache(43830);
 	}
 	
 }

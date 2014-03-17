@@ -46,13 +46,13 @@
 */
 
 // Alterar qdo for para o ar
-$active_group = 'testes';
+$active_group = 'producao';
 $active_record = TRUE;
 
 $db['testes']['hostname'] = 'localhost';
 $db['testes']['username'] = 'root';
 $db['testes']['password'] = '';
-$db['testes']['database'] = '';
+$db['testes']['database'] = 'evolusi';
 $db['testes']['dbdriver'] = 'mysql';
 $db['testes']['dbprefix'] = '';
 $db['testes']['pconnect'] = TRUE;
@@ -67,9 +67,9 @@ $db['testes']['stricton'] = FALSE;
 
 // Atualizar os dados abaixo quando tivermos os dados da hospedagem
 $db['producao']['hostname'] = 'localhost';
-$db['producao']['username'] = 'root';
-$db['producao']['password'] = '';
-$db['producao']['database'] = 'evolusi';
+$db['producao']['username'] = 'rabiscon';
+$db['producao']['password'] = 'YHBQVjS36H';
+$db['producao']['database'] = 'rabiscon_evolusi';
 $db['producao']['dbdriver'] = 'mysql';
 $db['producao']['dbprefix'] = '';
 $db['producao']['pconnect'] = TRUE;
